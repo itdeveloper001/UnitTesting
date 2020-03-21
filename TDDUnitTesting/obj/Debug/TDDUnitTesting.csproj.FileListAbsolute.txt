@@ -1,0 +1,7 @@
+c:\users\maqib\documents\visual studio 2013\Projects\UnitTestingDemo\TDDUnitTesting\bin\Debug\TDDUnitTesting.dll
+c:\users\maqib\documents\visual studio 2013\Projects\UnitTestingDemo\TDDUnitTesting\bin\Debug\TDDUnitTesting.pdb
+c:\users\maqib\documents\visual studio 2013\Projects\UnitTestingDemo\TDDUnitTesting\obj\Debug\TDDUnitTesting.csprojResolveAssemblyReference.cache
+c:\users\maqib\documents\visual studio 2013\Projects\UnitTestingDemo\TDDUnitTesting\obj\Debug\TDDUnitTesting.dll
+c:\users\maqib\documents\visual studio 2013\Projects\UnitTestingDemo\TDDUnitTesting\obj\Debug\TDDUnitTesting.pdb
+c:\users\maqib\documents\visual studio 2013\Projects\UnitTestingDemo\TDDUnitTesting\bin\Debug\UnitTestingDemo.exe
+c:\users\maqib\documents\visual studio 2013\Projects\UnitTestingDemo\TDDUnitTesting\bin\Debug\UnitTestingDemo.pdb
